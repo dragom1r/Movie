@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\bin\Debug\net8.0-windows\Movies.exe
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\bin\Debug\net8.0-windows\Movies.deps.json
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\bin\Debug\net8.0-windows\Movies.runtimeconfig.json
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\bin\Debug\net8.0-windows\Movies.dll
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\bin\Debug\net8.0-windows\Movies.pdb
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.Form1.resources
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.dll
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\refint\Movies.dll
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.pdb
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\Movies.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-3\Documents\11a\Movies11a\Movies\obj\Debug\net8.0-windows\ref\Movies.dll
